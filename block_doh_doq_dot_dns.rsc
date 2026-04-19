@@ -1,4 +1,4 @@
-:local scriptname = "DoH block"
+:local scriptname "DoH block"
 :local ipv4file "block_doh_dns/doh_ipv4.txt"
 :local ipv4url "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/doh.txt"
 :local ipv4list "DoH Servers"
